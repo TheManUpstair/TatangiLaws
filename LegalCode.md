@@ -137,7 +137,7 @@ This section shall hereby declare the establishment of the Tatangi Corporate Dol
         3. The Department of Social Services
         4. The Department of Justice
         5. The Department of Infrastructure
-# Tatangi Security Act of 1935
+# TL8 – Tatangi Security Act of 1935
 ## Section 1: Militarization of the Provincial Police
 The Provincial Police of Tatangi shall be authorized to make use of equipment, hardware and weapons that may be classified as military grade such as rifles, submachine guns, and armoured vehicles. 
 
