@@ -137,3 +137,26 @@ This section shall hereby declare the establishment of the Tatangi Corporate Dol
         3. The Department of Social Services
         4. The Department of Justice
         5. The Department of Infrastructure
+# Tatangi Security Act of 1935
+## Section 1: Militarization of the Provincial Police
+The Provincial Police of Tatangi shall be authorized to make use of equipment, hardware and weapons that may be classified as military grade such as rifles, submachine guns, and armoured vehicles. 
+
+Moreover, this section shall mandate the establishment of the State Protection Group which shall be militarized units of the Provincial Police tasked with exercising expertise in the use of automatic weapons, small fireteam tactics, and for dealing with violent criminal elements. 
+- 2,500 individuals shall be hired and paid at wages of $2,500 USD a year.
+## Section 2: The Provincial Bureau of Internal Affairs (BIA)
+The Provincial Bureau of Internal Affairs (BIA) shall be the domestic security and intelligence agency operating at the behalf of the Tatangi Government. This agency shall be tasked with detering significant violent crime, public corruption, and stopping terrorist attacks.
+
+The powers of the BIA are as follows:
+- They shall have the power to investigate communications for the purposes of gathering intelligence and protecting the province against terrorism which includes anything that is written or mediums such as radio frequencies provided that they have a warrant.
+- They shall have the power to demand access into personal records held by third parties such as financial records provided that they have a warrant.
+- They shall have the power to block financial transactions or firearms purchases if they believe that they are in connection with future or current criminal activity provided that they have a warrant.
+- They shall all of the normal police powers that the Provincial Police has.
+
+The head of the BIA shall be appointed and removed at will by the Governor of Tatangi, and officers of the BIA are not required to identify themselves nor are they required to wear a uniform. 
+- With the passage of this bill, 2,000 individuals shall be hired at wages of $5,000 USD.
+## Section 3: Provincial Court System
+
+The Provincial Government of Tatangi shall have a court system whose judges will be appointed by the Governor of Tatangi - the Governor reserves the right to appoint judges who shall serve a year long term via executive order. 
+- Judges employed by the Provincial Government of Tatangi shall have all the powers afforded to judges who serve in the Federal Court System which includes the Supreme Court and the High Courts or the National Constitution in general. They can order police, military or judicial officials to execute searches, arrests, imprisonments, garnishments, detrainment, seizures, deportations and similar actions. They shall also be able to issue warrants.
+- Judges employed by the Provincial Government of Tatangi can be removed through a democratic vote by the people of Tatangi for any reason which may include suspected corruption, and/or incompetency.
+- Judges employed by the Provincial Government of Tatangi shall be paid an annual salary of $250,000 USD a year, and this salary can be increased through executive order from the Governor of Tatangi.
